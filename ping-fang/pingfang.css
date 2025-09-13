@@ -44,7 +44,7 @@
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-  src: url('PingFangSC-Semibold.otf') format('opentype');
+  src: url('PingFangSC-Bold.ttf') format('opentype');
 }
 
 @font-face {
@@ -52,5 +52,13 @@
   font-weight: 800;
   font-style: normal;
   font-display: swap;
-  src: url('PingFangSC-Semibold.otf') format('opentype');
+  src: url('PingFangSC-Bold.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'PingFang SC';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('PingFangSC-Bold.ttf') format('opentype');
 }
